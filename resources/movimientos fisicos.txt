@@ -1,0 +1,25 @@
+Tackle,physical,40,100,35,0.0,0,normal
+Scratch,physical,40,100,35,0.0,0,normal
+Quick Attack,physical,40,100,30,0.0,1,normal
+Earthquake,physical,100,100,10,0.0,0,ground
+Fire Punch,physical,75,100,15,0.1,0,fire
+Thunder Punch,physical,75,100,15,0.1,0,electric
+Ice Punch,physical,75,100,15,0.1,0,ice
+Crunch,physical,80,100,15,0.2,0,dark
+Close Combat,physical,120,100,5,1.0,0,fighting
+Hammer Arm,physical,100,90,10,1.0,0,fighting
+Stone Edge,physical,100,80,5,0.125,0,rock
+Rock Slide,physical,75,90,10,0.3,0,rock
+Aerial Ace,physical,60,100,20,0.0,0,flying
+U-turn,physical,70,100,20,0.0,0,bug
+X-Scissor,physical,80,100,15,0.0,0,bug
+Night Slash,physical,70,100,15,0.125,0,dark
+Shadow Claw,physical,70,100,15,0.125,0,ghost
+Iron Head,physical,80,100,15,0.3,0,steel
+Zen Headbutt,physical,80,90,15,0.2,0,psychic
+Outrage,physical,120,100,10,1.0,0,dragon
+Dragon Claw,physical,80,100,15,0.0,0,dragon
+Megahorn,physical,120,85,10,0.0,0,bug
+Wood Hammer,physical,120,100,15,0.33,0,grass
+Flare Blitz,physical,120,100,15,0.33,0,fire
+Wild Charge,physical,90,100,15,0.33,0,electric

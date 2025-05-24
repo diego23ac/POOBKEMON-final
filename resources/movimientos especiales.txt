@@ -1,0 +1,25 @@
+Water Gun,special,40,100,25,0.0,0,water
+Ember,special,40,100,25,0.1,0,fire
+Thunderbolt,special,90,100,15,0.1,0,electric
+Ice Beam,special,90,100,10,0.1,0,ice
+Psychic,special,90,100,10,0.1,0,psychic
+Shadow Ball,special,80,100,15,0.2,0,ghost
+Energy Ball,special,90,100,10,0.1,0,grass
+Flamethrower,special,90,100,15,0.1,0,fire
+Surf,special,90,100,15,0.0,0,water
+Blizzard,special,110,70,5,0.1,0,ice
+Thunder,special,110,70,10,0.3,0,electric
+Solar Beam,special,120,100,10,0.0,0,grass
+Hyper Beam,special,150,90,5,1.0,0,normal
+Fire Blast,special,110,85,5,0.1,0,fire
+Hydro Pump,special,110,80,5,0.0,0,water
+Moonblast,special,95,100,15,0.3,0,fairy
+Dazzling Gleam,special,80,100,10,0.0,0,fairy
+Dragon Pulse,special,85,100,10,0.0,0,dragon
+Dark Pulse,special,80,100,15,0.2,0,dark
+Flash Cannon,special,80,100,10,0.1,0,steel
+Bug Buzz,special,90,100,10,0.1,0,bug
+Air Slash,special,75,95,15,0.3,0,flying
+Earth Power,special,90,100,10,0.1,0,ground
+Sludge Bomb,special,90,100,10,0.3,0,poison
+Focus Blast,special,120,70,5,0.1,0,fighting

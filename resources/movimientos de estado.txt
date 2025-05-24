@@ -1,0 +1,32 @@
+Growl,status,0,100,40,1.0,0,normal
+Leer,status,0,100,30,1.0,0,normal
+Thunder Wave,status,0,90,20,1.0,0,electric
+Sleep Powder,status,0,75,15,1.0,0,grass
+Stun Spore,status,0,75,30,1.0,0,grass
+Poison Powder,status,0,75,35,1.0,0,grass
+Swords Dance,status,0,100,20,1.0,0,normal
+Dragon Dance,status,0,100,20,1.0,0,dragon
+Calm Mind,status,0,100,20,1.0,0,psychic
+Iron Defense,status,0,100,15,1.0,0,steel
+Agility,status,0,100,30,1.0,0,psychic
+Nasty Plot,status,0,100,20,1.0,0,dark
+Bulk Up,status,0,100,20,1.0,0,fighting
+Recover,status,0,100,10,1.0,0,normal
+Roost,status,0,100,10,1.0,0,flying
+Synthesis,status,0,100,5,1.0,0,grass
+Will-O-Wisp,status,0,85,15,1.0,0,fire
+Toxic,status,0,90,10,1.0,0,poison
+Hypnosis,status,0,60,20,1.0,0,psychic
+Sing,status,0,55,15,1.0,0,normal
+Charm,status,0,100,20,1.0,0,fairy
+Scary Face,status,0,100,10,1.0,0,normal
+Screech,status,0,85,40,1.0,0,normal
+Feather Dance,status,0,100,15,1.0,0,flying
+Haze,status,0,100,30,1.0,0,ice
+Aromatherapy,status,0,100,5,1.0,0,grass
+Heal Bell,status,0,100,5,1.0,0,normal
+Taunt,status,0,100,20,1.0,0,dark
+Encore,status,0,100,5,1.0,0,normal
+Substitute,status,0,100,10,1.0,0,normal
+Protect,status,0,100,10,1.0,4,normal
+Spore,status,0,100,15,1.0,0,grass

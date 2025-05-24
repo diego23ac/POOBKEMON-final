@@ -1,0 +1,36 @@
+Aerodactyl,Pokémon Fósil,80,105,65,130,60,75,rock,flying,50
+Alakazam,Pokémon Psi,55,50,45,120,135,95,psychic,,50
+Armaldo,Pokémon Placa,75,125,100,45,70,80,rock,bug,50
+Blaziken,Pokémon Fuego,80,120,70,80,110,70,fire,fighting,50
+Charizard,Pokémon Llama,78,84,78,100,109,85,fire,flying,50
+Donphan,Pokémon Armadura,90,120,120,50,60,60,ground,,50
+Dragonite,Pokémon Dragón,91,134,95,80,100,100,dragon,flying,50
+Dusclops,Pokémon Beckon,40,70,130,25,60,130,ghost,,50
+Electabuzz,Pokémon Eléctrico,65,83,57,105,95,85,electric,,50
+Flygon,Pokémon Místico,80,100,80,100,80,80,ground,dragon,50
+Gardevoir,Pokémon Abrazo,68,65,65,80,125,115,psychic,fairy,50
+Gengar,Pokémon Sombra,60,65,60,110,130,75,ghost,poison,50
+Glalie,Pokémon Cara,80,80,80,80,80,80,ice,,50
+Granbull,Pokémon Hada,90,120,75,45,60,60,fairy,,50
+Gyarados,Pokémon Atrocidad,95,125,79,81,60,100,water,flying,50
+Hariyama,Pokémon Empuje,144,120,60,50,40,60,fighting,,50
+Heracross,Pokémon Unicornio,80,125,75,85,40,95,bug,fighting,50
+Hitmonchan,Pokémon Puñetazo,50,105,79,76,35,110,fighting,,50
+Houndoom,Pokémon Siniestro,75,90,50,95,110,80,dark,fire,50
+Manectric,Pokémon Descarga,70,75,60,105,105,60,electric,,50
+Metagross,Pokémon Pata Férrea,80,135,130,70,95,90,steel,psychic,50
+Muk,Pokémon Lodo,105,105,75,50,65,100,poison,,50
+Salamence,Pokémon Dragón,95,135,80,100,110,80,dragon,flying,50
+Sceptile,Pokémon Selva,70,85,65,120,105,85,grass,,50
+Scizor,Pokémon Tenaza,70,130,100,65,55,80,bug,steel,50
+Skarmory,Pokémon Ave Coraza,65,80,140,70,40,70,steel,flying,50
+Steelix,Pokémon Serpiente,75,85,200,30,55,65,steel,ground,50
+Swalot,Pokémon Saco Venenoso,100,73,83,55,73,83,poison,,50
+Swampert,Pokémon Pez Barro,100,110,90,60,85,90,water,ground,50
+Togetic,Pokémon Felicidad,55,40,85,40,80,105,fairy,flying,50
+Tyranitar,Pokémon Armadura,100,134,110,61,95,100,rock,dark,50
+Umbreon,Pokémon Luz Lunar,95,65,110,65,60,130,dark,,50
+Ursaring,Pokémon Hibernante,90,130,75,55,75,75,normal,,50
+Venusaur,Pokémon Semilla,80,82,83,80,100,100,grass,poison,50
+Walrein,Pokémon Rompehielos,110,80,90,65,95,90,ice,water,50
+Zigzagoon,Pokémon Mapache,38,30,41,60,30,41,normal,,50
